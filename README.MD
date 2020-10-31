@@ -1,5 +1,5 @@
 # Sentiment Analysis - Reviews YELP
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/MarcosMota/SentimentAnalysisYelp)
 
 DIn order to encourage the learning of artificial intelligence, YELP provides business datasets, assessments and user data for use in personal, educational and academic purposes.
 
@@ -10,20 +10,17 @@ For this task we will use several Deep Learning techniques, such as:
 - BERT
 
 # Technology Used
-- Pytorch
+- Jupyter Notebook
 - Python
     
 # New Features!
   - classify positive and negative using Perceptron
 
-Dillinger uses a number of open source projects to work properly:
 
 * [Pytorch] - Framework by Deep Learning
 * [Numpy] - awesome web-based text editor
 * [Jupyter Notebook] - Markdown parser done right. Fast and easy to extend.
 
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
 
 ### Trainning Model
 
