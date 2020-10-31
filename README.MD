@@ -1,7 +1,7 @@
 # Sentiment Analysis - Reviews YELP
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/MarcosMota/SentimentAnalysisYelp)
 
-DIn order to encourage the learning of artificial intelligence, YELP provides business datasets, assessments and user data for use in personal, educational and academic purposes.
+In order to encourage the learning of artificial intelligence, YELP provides business datasets, assessments and user data for use in personal, educational and academic purposes.
 
 In this one, we will focus on evaluation data, where the goal is to develop a classifier that can distinguish "positive" and "negative" messages.
 For this task we will use several Deep Learning techniques, such as:
