@@ -11,10 +11,15 @@ For this task we will use several Deep Learning techniques, such as:
 
 # Technology Used
 - Jupyter Notebook
+- Docker
+- Angular 10
 - Python
     
 # New Features!
-  - classify positive and negative using Perceptron
+  - Classify positive and negative using Perceptron
+  - API for expose model
+  - Create of the angular design architecture
+  - Create of the docker architecture
 
 
 * [Pytorch] - Framework by Deep Learning
